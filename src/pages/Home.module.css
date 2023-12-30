@@ -1,0 +1,15 @@
+.home {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.centered {
+    text-align: center;
+    margin-top: -50px;
+}
+
+h1 {
+    font-weight: 700;
+}
